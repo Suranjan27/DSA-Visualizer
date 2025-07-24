@@ -1,30 +1,47 @@
-# Dsa visualizer project
+# DSA Visualizer
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A clean and interactive visualization tool for understanding **Data Structures and Algorithms**.  
+Built with modern web technologies to help students and developers learn how common DSA concepts work internally.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/bulai27sengupta-7744s-projects/v0-dsa-visualizer-project)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/C3OO3CUMzzf)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://dsa-visualizer9.netlify.app)
+[![Hosted on Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## ✨ Features
 
-## Deployment
+- Visualize classic sorting algorithms step-by-step  
+- Understand traversal techniques for trees and graphs  
+- Responsive design for both desktop and mobile  
+- Smooth animations and transitions  
+- Clean UI built for learning efficiency
 
-Your project is live at:
+---
 
-**[https://vercel.com/bulai27sengupta-7744s-projects/v0-dsa-visualizer-project](https://vercel.com/bulai27sengupta-7744s-projects/v0-dsa-visualizer-project)**
+## 🚀 Tech Stack
 
-## Build your app
+- **Frontend:** HTML, CSS, JavaScript (React)  
+- **Deployment:** Netlify & Vercel  
+- **UI Design:** Custom styled components and animations
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/C3OO3CUMzzf](https://v0.dev/chat/projects/C3OO3CUMzzf)**
+## 📌 Live Project
 
-## How It Works
+Explore the project live at:  
+🔗 [https://dsa-visualizer9.netlify.app](https://dsa-visualizer9.netlify.app)
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📂 Project Structure
+
+```bash
+📦 DSA-Visualizer
+ ┣ 📁 public
+ ┣ 📁 src
+ ┃ ┣ 📁 components
+ ┃ ┗ 📁 assets
+ ┣ 📄 index.html
+ ┣ 📄 App.js
+ ┣ 📄 README.md
+ ┗ 📄 package.json
